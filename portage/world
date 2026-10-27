@@ -1,4 +1,4 @@
-app-admin/doas
+app-admin/sudo
 app-arch/unzip
 app-arch/zip
 app-editors/vim
@@ -9,12 +9,15 @@ app-misc/fastfetch
 app-misc/ranger
 app-misc/tmux
 app-misc/trash-cli
+app-office/libreoffice
+app-office/obsidian
 app-portage/gentoolkit
 app-shells/fzf
 app-shells/zsh
 app-text/tree
 dev-vcs/git
 dev-vcs/lazygit
+gnome-base/gvfs
 media-gfx/maim
 media-sound/cmus
 net-firewall/ufw
@@ -40,6 +43,7 @@ x11-apps/xinit
 x11-apps/xrandr
 x11-base/xorg-drivers
 x11-base/xorg-server
+x11-misc/autotiling
 x11-misc/dmenu
 x11-misc/dunst
 x11-misc/i3lock
