@@ -1,3 +1,4 @@
 #!/bin/sh
 setxkbmap -layout br -variant abnt2
-exec i3
+exec dbus-run-session -- i3
+gentoo-pipewire-launcher
